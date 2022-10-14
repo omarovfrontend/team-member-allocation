@@ -1,5 +1,7 @@
 # Team member allocation
 
-## npm install
+## Для запуска проекта ▽ :)
 
-## npm start
+### npm install
+
+### npm start
